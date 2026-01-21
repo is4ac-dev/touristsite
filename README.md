@@ -44,3 +44,7 @@ A organização do projeto segue a seguinte estrutura:
 │   ├── spaces.css
 │   └── style.css
 └── index.html
+```
+
+## 💡 Créditos
+Projeto criado por Isaac Monteiro, inspirado na proposta Local Turístico do curso de Formação FullStack da Rocketseat.
