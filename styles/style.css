@@ -25,12 +25,25 @@ h3 {
   font-weight: bold;
 }
 
+figcaption {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
 #subtitle {
   font-style: italic;
 }
 
+#container main > p {
+  text-align: center;
+}
+
 .headline {
   color: #E1624F;
+  text-transform: uppercase;
   font-weight: bold;
 }
 
@@ -38,4 +51,8 @@ h3 {
   width: 100%;
   height: 1px;
   background-color: #d9d9d9;
+}
+
+footer {
+  text-align: center;
 }
