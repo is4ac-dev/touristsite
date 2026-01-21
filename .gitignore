@@ -1,0 +1,33 @@
+# --- Arquivos de Sistema Operacional ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Arquivos de Log ---
+*.log
+npm-debug.log*
+
+# --- Dependências (caso você use NPM no futuro) ---
+node_modules/
+package-lock.json
+yarn.lock
+
+# --- Pastas de Build/Distribuição (futuro) ---
+dist/
+build/
+
+# --- Configurações de IDEs e Editores ---
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# JetBrains (WebStorm, IntelliJ, etc)
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
